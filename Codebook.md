@@ -1,1 +1,48 @@
-d
+1
+There are 30 people participating in this program numbered for 1 to 30.
+
+2
+There a 6 activities in this program:
+"WALKING"
+"WALKING_UPSTAIRS"
+"WALKING_DOWNSTAIRS"
+"SITTING"
+"STANDING"
+"LAYING"
+
+3 there are 67 variable:
+
+ [1]  "Activity"                    "tBodyAcc-mean()-X"          
+ [3] "tBodyAcc-mean()-Y"           "tBodyAcc-mean()-Z"          
+ [5] "tGravityAcc-mean()-X"        "tGravityAcc-mean()-Y"       
+ [7] "tGravityAcc-mean()-Z"        "tBodyAccJerk-mean()-X"      
+ [9] "tBodyAccJerk-mean()-Y"       "tBodyAccJerk-mean()-Z"      
+[11] "tBodyGyro-mean()-X"          "tBodyGyro-mean()-Y"         
+[13] "tBodyGyro-mean()-Z"          "tBodyGyroJerk-mean()-X"     
+[15] "tBodyGyroJerk-mean()-Y"      "tBodyGyroJerk-mean()-Z"     
+[17] "tBodyAccMag-mean()"          "tGravityAccMag-mean()"      
+[19] "tBodyAccJerkMag-mean()"      "tBodyGyroMag-mean()"        
+[21] "tBodyGyroJerkMag-mean()"     "fBodyAcc-mean()-X"          
+[23] "fBodyAcc-mean()-Y"           "fBodyAcc-mean()-Z"          
+[25] "fBodyAccJerk-mean()-X"       "fBodyAccJerk-mean()-Y"      
+[27] "fBodyAccJerk-mean()-Z"       "fBodyGyro-mean()-X"         
+[29] "fBodyGyro-mean()-Y"          "fBodyGyro-mean()-Z"         
+[31] "fBodyAccMag-mean()"          "fBodyBodyAccJerkMag-mean()" 
+[33] "fBodyBodyGyroMag-mean()"     "fBodyBodyGyroJerkMag-mean()"
+[35] "tBodyAcc-std()-X"            "tBodyAcc-std()-Y"           
+[37] "tBodyAcc-std()-Z"            "tGravityAcc-std()-X"        
+[39] "tGravityAcc-std()-Y"         "tGravityAcc-std()-Z"        
+[41] "tBodyAccJerk-std()-X"        "tBodyAccJerk-std()-Y"       
+[43] "tBodyAccJerk-std()-Z"        "tBodyGyro-std()-X"          
+[45] "tBodyGyro-std()-Y"           "tBodyGyro-std()-Z"          
+[47] "tBodyGyroJerk-std()-X"       "tBodyGyroJerk-std()-Y"      
+[49] "tBodyGyroJerk-std()-Z"       "tBodyAccMag-std()"          
+[51] "tGravityAccMag-std()"        "tBodyAccJerkMag-std()"      
+[53] "tBodyGyroMag-std()"          "tBodyGyroJerkMag-std()"     
+[55] "fBodyAcc-std()-X"            "fBodyAcc-std()-Y"           
+[57] "fBodyAcc-std()-Z"            "fBodyAccJerk-std()-X"       
+[59] "fBodyAccJerk-std()-Y"        "fBodyAccJerk-std()-Z"       
+[61] "fBodyGyro-std()-X"           "fBodyGyro-std()-Y"          
+[63] "fBodyGyro-std()-Z"           "fBodyAccMag-std()"          
+[65] "fBodyBodyAccJerkMag-std()"   "fBodyBodyGyroMag-std()"     
+[67] "fBodyBodyGyroJerkMag-std()" 
